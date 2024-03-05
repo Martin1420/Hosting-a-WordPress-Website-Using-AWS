@@ -1,10 +1,7 @@
-Based on the detailed information you've provided about hosting a WordPress website on AWS and the scripts for deployment, I'll draft a README file for your GitHub repository. This README will provide an overview of the project, prerequisites, deployment steps, and how to use the provided scripts.
-
----
 
 # WordPress Hosting on AWS
 
-This repository contains resources and scripts used to deploy a WordPress website on AWS, leveraging various AWS services to ensure scalability, fault tolerance, and security.
+This repository contains resources and scripts used to deploy a WordPress website on AWS, leveraging various AWS services to ensure scalability, fault tolerance, and security.The project is showcased through my website, martinvalentines.com, which serves as a live demonstration of the deployment and configurations detailed here.
 
 ## Project Overview
 
