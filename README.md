@@ -1,7 +1,7 @@
 
 # WordPress Hosting on AWS
 
-This repository contains resources and scripts used to deploy a WordPress website on AWS, leveraging various AWS services to ensure scalability, fault tolerance, and security.The project is showcased through my website, martinvalentines.com, which serves as a live demonstration of the deployment and configurations detailed here.
+This repository contains resources and scripts used to deploy a WordPress website on AWS, leveraging various AWS services to ensure scalability, fault tolerance, and security.The project is showcased through my website(https://www.martinvalentines.com/), which serves as a live demonstration of the deployment and configurations detailed here.
 
 ## Project Overview
 
